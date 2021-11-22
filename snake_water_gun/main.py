@@ -26,10 +26,6 @@ def game_win(comp, player):
             return False
         elif player == 's':
             return True
-    
-    
-
-
 
 
 comp = print("Choose either of them: Snake(s), Water(w) & Gun(g):")
@@ -59,3 +55,4 @@ elif win_condition == True:
     print('Computer Won')
 else:
     print('Player Wins!')
+    
