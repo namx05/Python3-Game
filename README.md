@@ -2,7 +2,7 @@
 Small old school games made in pyhton3
 
 # First Game
-1. [Snake, Water, Gun](https://github.com/namx05/Python3-Game/tree/main/snake_water_gun) -> 
+1. [Snake, Water, Gun](https://github.com/namx05/Python3-Game/tree/main/snake_water_gun)
 <img align="center" alt="jpg" src="/snake_water_gun/index.jpg" />
 
 
